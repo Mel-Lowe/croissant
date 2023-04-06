@@ -1,0 +1,16 @@
+body {
+  margin: 30px;
+  background-color: blanchedalmond;
+}
+h1 {
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 40px;
+}
